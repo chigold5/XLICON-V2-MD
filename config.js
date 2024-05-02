@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = ['238168689993', Emmy Nuel',true]
   ['918360234087', 'WHITE', true], 
   ['233208179431', 'Abraham Dwamena', true],
   ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
@@ -16,7 +16,7 @@ global.owner = [
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "2348168689993" //put your bot number here
 
 global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
 global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'Necromancer'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
 global.author = '@XLICON-V2' 
